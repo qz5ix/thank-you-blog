@@ -28,3 +28,13 @@ footer {
   padding: 10px;
   background-color: #f7e0d2;
 }
+
+
+.fancy-divider {
+  text-align: center;
+  font-size: 1.5em;
+  margin: 40px 0;
+  color: #c7c3bd; /* light gray */
+  text-shadow: 0 0 5px #8b8884;
+  letter-spacing: 2px;
+}
